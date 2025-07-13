@@ -27,7 +27,7 @@
 
 - 🔍 **Netflix Movies Analysis (In Progress)**  
   *Exploratory Data Analysis on Netflix movies and shows dataset using Pandas and Seaborn.*  
-  [View Repository](#) *(Add GitHub repo link)*
+  [View Repository](#) *(https://github.com/Mohammad-Mohid18/Netflix-Movies-Analysis-Project)*
 
 - ✅ **Python Programming Internship (CodeAlpha)**  
   *Practical tasks involving Pandas, data manipulation, and problem-solving using Python.*
