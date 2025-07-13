@@ -1,12 +1,58 @@
-- 👋 Hi, I’m @Mohammad-Mohid18
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi there, I'm Mohammad Mohid 👋</h1>
 
-<!---
-Mohammad-Mohid18/Mohammad-Mohid18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  🧑‍💻 Data Science Student | Python & C++ Developer | Beginner Analyst
+</p>
+
+---
+
+### 📚 About Me
+
+🎓 I'm currently pursuing a **BS in Data Science** from the Institute of Management Sciences (IM|Sciences), Peshawar.  
+💡 I'm passionate about turning data into meaningful insights using Python, Pandas, and visualization tools.  
+🚀 I’m learning and growing by building real-world data analysis and machine learning projects.
+
+---
+
+### 🛠️ Tools & Skills
+
+- **Languages**: Python, C++, SQL (Learning)
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
+- **Tools**: Jupyter Notebook, VS Code, Git & GitHub
+- **Concepts**: Data Cleaning, Visualization, OOP, REST APIs (Basics)
+
+---
+
+### 📈 Projects (More Coming Soon!)
+
+- 🔍 **Netflix Movies Analysis (In Progress)**  
+  *Exploratory Data Analysis on Netflix movies and shows dataset using Pandas and Seaborn.*  
+  [View Repository](#) *(Add GitHub repo link)*
+
+- ✅ **Python Programming Internship (CodeAlpha)**  
+  *Practical tasks involving Pandas, data manipulation, and problem-solving using Python.*
+
+- 📊 **Descriptive Analysis Project**  
+  *Basic statistical and visual exploration of datasets as part of my learning journey.*  
+  *(To be posted soon)*
+
+---
+
+### 🎓 Certifications
+
+- 📜 [Python for Data Science, AI & Development – IBM](https://www.coursera.org/account/accomplishments/records/TJBUW6SJE64V)
+- 📜 Certificate of Completion – Python Internship at CodeAlpha
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-mohid-162585361/)
+- 💻 [GitHub](https://github.com/Mohammad-Mohid18)
+- 📧 mohiddev@gmail.com *(or your actual email if different)*
+
+---
+
+<p align="center">
+  🚀 Building one project at a time | 📊 Learning never stops
+</p>
