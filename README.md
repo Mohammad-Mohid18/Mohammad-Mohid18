@@ -34,7 +34,6 @@
 
 - 📊 **Descriptive Analysis Project**  
   *Basic statistical and visual exploration of datasets as part of my learning journey.*  
-  *(To be posted soon)*
 
 ---
 
@@ -50,7 +49,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-mohid-162585361/)
 - 💻 [GitHub](https://github.com/Mohammad-Mohid18)
 - 🆘 [LeetCode](https://leetcode.com/u/m_mohid1206/)
-- 📧 mohiddev@gmail.com *(or your actual email if different)*
+- 📧 mohammadmohid58@gmail.com *(or your actual email if different)*
 
 ---
 
