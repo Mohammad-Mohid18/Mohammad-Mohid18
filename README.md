@@ -16,14 +16,14 @@
 
 ### 🛠️ Tools & Skills
 
-- **Languages**: Python, C++, SQL (Learning)
+- **Languages**: Python, C++, HTML, CSS
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 - **Tools**: Jupyter Notebook, VS Code, Git & GitHub
 - **Concepts**: Data Cleaning, Visualization, OOP, REST APIs (Basics)
 
 ---
 
-### 📈 Projects (More Coming Soon!)
+### 📈 Projects
 
 - 🔍 **Netflix Movies Analysis (In Progress)**  
   *Exploratory Data Analysis on Netflix movies and shows dataset using Pandas and Seaborn.*  
